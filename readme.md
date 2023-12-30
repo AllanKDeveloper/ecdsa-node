@@ -4,6 +4,8 @@ This project is an example of using a client and server to facilitate transfers 
 
 However, something that we would like to incoporate is Public Key Cryptography. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
 
+![image](https://github.com/AllanKDeveloper/ecdsa-node/assets/37770361/0d3b61b2-8170-443d-964c-36cb08169a5f)
+
 ### Video instructions
 For an overview of this project as well as getting started instructions, check out the following video:
 
